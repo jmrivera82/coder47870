@@ -1,0 +1,14 @@
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\bin\Debug\net6.0\MiprimerAPPP.exe
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\bin\Debug\net6.0\MiprimerAPPP.deps.json
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\bin\Debug\net6.0\MiprimerAPPP.runtimeconfig.json
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\bin\Debug\net6.0\MiprimerAPPP.dll
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\bin\Debug\net6.0\MiprimerAPPP.pdb
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.AssemblyInfo.cs
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.dll
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\refint\MiprimerAPPP.dll
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.pdb
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\MiprimerAPPP.genruntimeconfig.cache
+C:\Users\Jose\source\repos\MiprimerAPPP\MiprimerAPPP\obj\Debug\net6.0\ref\MiprimerAPPP.dll
